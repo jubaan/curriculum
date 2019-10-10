@@ -2511,6 +2511,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Kelsey's Solution (Easy)](https://kelsey-myers.github.io/google-homepage/) - [View in Browser](https://kelsey-myers.github.io/google-homepage/)
 * [disco-coder's Solution (Easy)](https://github.com/disco-coder/google-homepage) - [View in Browser](https://disco-coder.github.io/google-homepage/)
 </details>
+* [jubaa's Solution (Easy)](https://github.com/jubaan/google-homepage) - [View in Browser](https://jubaan.github.io/google-homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
